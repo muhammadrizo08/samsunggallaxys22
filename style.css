@@ -1,0 +1,134 @@
+nav{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    width: 30%;
+    height: 100%;
+    align-items: center;
+    color: grey;
+}
+.nnn{
+    background-color: grey;
+    color: #000;
+    border-radius: 50%;
+}
+.fa-solid{
+    margin-left: 1300px;
+    font-size: 20px;
+    position: fixed;
+}
+.cont{
+    width: 100%;
+    height: 380px;
+    display: flex;
+    
+}
+.box{
+    width: 50%;
+    height: 100%;
+     
+}
+.nav{
+    width: 100%;
+    height: 80px;
+    
+}
+.desk{
+    width: 100%;
+    height: 640px;
+    flex-direction: column;
+    display: flex;
+    
+    display: grid;;
+    grid-template-columns: repeat(4, 1fr);
+}
+.maloy{
+    width: 100%;
+    height: 100%;
+     
+     
+}
+.maloy:hover{
+    background-color: blue;
+}
+img{
+    object-fit: cover;
+}
+.footer{
+    width: 100%;
+    height: 80px;
+    display: flex;
+}
+.share{
+    font-size: 18px;
+    width: 150px;
+    height: 50px;
+    color: grey;
+    justify-content: space-around;
+}
+.fa-brands{
+    margin-top: 8px;
+}
+.a1{
+    width: 120px;
+    height: 30px;
+    border: 1px solid black;
+}
+.a2{
+    width: 170px;
+    height: 30px;
+    border: 1px solid black;
+}
+
+.nnm2{
+    color: #000 !important;
+    text-decoration: none !important;
+}
+.kilo{
+    margin-left: 600px;
+}
+.mina{
+    height: 30px;
+}
+.foot{
+    width: 100%;
+    height:80px ;
+    display: flex;
+}
+.sam{
+    width: 20%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+.sung{
+    width: 80%;
+    
+    flex-direction: column;
+    display: flex;
+}
+.half{
+    width: 100%;
+    height: 50%;
+    
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+}
+.half2{
+    width: 100%;
+    height: 50%;
+    
+    font-size: 12px;
+    display: flex;
+}
+.my{
+    
+    margin-left: 200px;
+}
+.mmm{
+    margin-left: 20px !important;
+}
